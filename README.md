@@ -1,4 +1,6 @@
 # equal-angle-cevian-concurrency
+[![tests](https://github.com/Constakour/equal-angle-cevian-concurrency/actions/workflows/tests.yml/badge.svg)](https://github.com/Constakour/equal-angle-cevian-concurrency/actions/workflows/tests.yml)
+
 Python code for the equal-angle cevian concurrency sequence d_angle(n):
 number of interior triple intersections when each vertex is split into n+1
 equal angular sectors. Fast O(n^2) trigonometric–Ceva method and a simple
