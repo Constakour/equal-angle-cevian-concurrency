@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Equal-angle cevian concurrency (d_angle(n))"
+authors:
+  - family-names: Kourouzides
+    given-names: Constantinos
+version: "1.0.0"
+date-released: "2025-08-29"
+repository-code: "https://github.com/Constakour/equal-angle-cevian-concurrency"
+license: "MIT"
+preferred-citation:
+  type: software
+  title: "equal-angle-cevian-concurrency: Python for d_angle(n)"
+  authors:
+    - family-names: Kourouzides
+      given-names: Constantinos
+  version: "1.0.0"
+  url: "https://github.com/Constakour/equal-angle-cevian-concurrency"
